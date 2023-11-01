@@ -1,0 +1,15 @@
+C:\Users\prdb\Desktop\gRABIS\Figuri\bin\Debug\net7.0\Figuri.exe
+C:\Users\prdb\Desktop\gRABIS\Figuri\bin\Debug\net7.0\Figuri.deps.json
+C:\Users\prdb\Desktop\gRABIS\Figuri\bin\Debug\net7.0\Figuri.runtimeconfig.json
+C:\Users\prdb\Desktop\gRABIS\Figuri\bin\Debug\net7.0\Figuri.dll
+C:\Users\prdb\Desktop\gRABIS\Figuri\bin\Debug\net7.0\Figuri.pdb
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\Figuri.csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\Figuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\Figuri.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\Figuri.AssemblyInfo.cs
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\Figuri.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\Figuri.dll
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\refint\Figuri.dll
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\Figuri.pdb
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\Figuri.genruntimeconfig.cache
+C:\Users\prdb\Desktop\gRABIS\Figuri\obj\Debug\net7.0\ref\Figuri.dll
